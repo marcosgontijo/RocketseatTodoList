@@ -5,6 +5,6 @@ br\com\marcosgontijo\todolist\user\IUserRepository.class
 br\com\marcosgontijo\todolist\TodolistApplication.class
 br\com\marcosgontijo\todolist\errors\ExceptionHandlerController.class
 br\com\marcosgontijo\todolist\utils\Utils.class
-br\com\marcosgontijo\todolist\task\filter\FilterTaskAuth.class
+br\com\marcosgontijo\todolist\filter\FilterTaskAuth.class
 br\com\marcosgontijo\todolist\user\UserController.class
 br\com\marcosgontijo\todolist\user\UserModel.class
